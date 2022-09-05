@@ -1,7 +1,1 @@
-echo "# rsschool-cv" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/john-brd/rsschool-cv.git
-git push -u origin main
+https://john-brd.github.io/rsschool-cv/cv
